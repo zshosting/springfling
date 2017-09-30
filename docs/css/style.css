@@ -19,8 +19,57 @@
   padding: 0 10px !important;
 }
 
+@media screen and (max-width: 600px){
+    body {
+        background: url('../imgs/background.jpg') no-repeat center #f1f0eb; background-attachment:fixed;
+    }
+}
+@media screen and (min-width: 601px){
+    body {
+        background: url('../imgs/background.jpg') no-repeat center #f1f0eb; background-attachment:fixed;
+    }
+}
+  
+ .custom-orange {
+  background-color: #e47a52 !important;
+}
+ .custom-yellow {
+  background-color: #eec374 !important;
+}
+ .custom-blue1 {
+  background-color: #5d8a9d !important;
+}
+ .custom-blue2 {
+  background-color: #9dc2d4 !important;
+}
+ .custom-green1 {
+  background-color: #a0bc96 !important;
+}
+ .custom-green2 {
+  background-color: #b1b05e !important;
+}
+
+.custom-orange-text {
+  color: #e47a52 !important;
+}
+.custom-yellow-text {
+  color: #eec374 !important;
+}
+.custom-blue1-text {
+  color: #5d8a9d !important;
+}
+.custom-blue2-text {
+  color: #9dc2d4 !important;
+}
+.custom-green1-text {
+  color: #a0bc96 !important;
+}
+.custom-green2-text {
+  color: #b1b05e !important;
+}
+
 ::-webkit-scrollbar-track { -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3); background-color: #F5F5F5; }
 ::-webkit-scrollbar { width: 10px; background-color: #F5F5F5; }
-::-webkit-scrollbar-thumb { background-color: #EE2212; }
-::-moz-selection { background: #EE2212; color: white; }
-::selection { background: #EE2212; color: white; }
+::-webkit-scrollbar-thumb { background-color: #5d8a9d; }
+::-moz-selection { background: #5d8a9d; color: white; }
+::selection { background: #eec374; color: white; }
