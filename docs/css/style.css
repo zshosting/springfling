@@ -19,14 +19,14 @@
   padding: 0 10px !important;
 }
 
-@media screen and (max-width: 600px){
+@media screen and (max-width: 525px){
     body {
-        background: url('../imgs/background.jpg') no-repeat center #f1f0eb; background-attachment:fixed;
+        background: url('../imgs/background.png') no-repeat center #f1f0eb; background-attachment:fixed;
     }
 }
-@media screen and (min-width: 601px){
+@media screen and (min-width: 526px){
     body {
-        background: url('../imgs/background.jpg') no-repeat center #f1f0eb; background-attachment:fixed;
+        background: url('../imgs/background.png') no-repeat center #f1f0eb; background-attachment:fixed;
     }
 }
   
