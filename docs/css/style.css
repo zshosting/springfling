@@ -29,6 +29,18 @@
         background: url('../imgs/background.png') no-repeat center #f1f0eb; background-attachment:fixed;
     }
 }
+.imgcontainer {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+/* Bottom right text */
+.bottom-right {
+    position: absolute;
+    bottom: 8px;
+    right: 16px;
+}
   
  .custom-orange {
   background-color: #e47a52 !important;
