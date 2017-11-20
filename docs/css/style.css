@@ -29,6 +29,18 @@
         background: url('../imgs/background.png') no-repeat center #f1f0eb; background-attachment:fixed;
     }
 }
+
+@font-face {
+	font-family: 'MCBlossoms';
+	src: url('/fonts/mc/hinted-MCBlossoms.eot');
+	src: local('MCBlossoms'),
+		url('/fonts/mc/hinted-MCBlossoms.eot?#iefix') format('embedded-opentype'),
+		url('/fonts/mc/hinted-MCBlossoms.woff') format('woff'),
+		url('/fonts/mc/hinted-MCBlossoms.ttf') format('truetype');
+	font-weight: 900;
+	font-style: italic;
+}
+
 .imgcontainer {
     position: relative;
     text-align: center;
