@@ -21,12 +21,12 @@
 
 @media screen and (max-width: 525px){
     body {
-        background: url('../imgs/background.jpg') no-repeat center #f1f0eb; background-attachment:fixed;
+        background: url('../imgs/background.png?v=1.0') no-repeat center #f1f0eb; background-attachment:fixed;
     }
 }
 @media screen and (min-width: 526px){
     body {
-        background: url('../imgs/background.jpg') no-repeat center #f1f0eb; background-attachment:fixed;
+        background: url('../imgs/background.png?v=1.0') no-repeat center #f1f0eb; background-attachment:fixed;
     }
 }
 
