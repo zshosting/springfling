@@ -45,7 +45,20 @@
   
  
  .custom-yellow {
-  background-color: #4ec4cc !important;
+	background-color: #4ec4cc !important;
+  
+} 
+
+.custom-border1 {
+	border-color: #1bb4de !important;
+	border-style: solid !important;
+	border-width: 15px !important;
+}
+
+.custom-border2 {
+	border-color: #f7e94f !important;
+	border-style: solid !important;
+	border-width: 15px !important;
 }
 
 
